@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://luaward.com">
-    <img src="./banner.png" alt="Luaward — Script protection & key system for Roblox" width="100%" />
+    <img src="./banner.png" alt="Luaward - Script protection & key system for Roblox" width="100%" />
   </a>
 </p>
 
 # Luaward
 
-**Luaward** is a software licensing and code protection platform for **Roblox Luau** developers — protect your scripts, manage access with license keys or ad-supported key pages, and monitor usage analytics from one dashboard.
+**Luaward** is a software licensing and code protection platform for **Roblox Luau** developers - protect your scripts, manage access with license keys or ad-supported key pages, and monitor usage analytics from one dashboard.
 
 ### Links
 
