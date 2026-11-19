@@ -12,6 +12,7 @@
 
 - **JavaScript / TypeScript SDK (npm):** [`@luaward/sdk`](https://www.npmjs.com/package/@luaward/sdk) (`npm install @luaward/sdk`)
 - **CLI & GitHub Action (npm):** [`@luaward/cli`](https://www.npmjs.com/package/@luaward/cli) (`npm install -g @luaward/cli`)
+- **MCP Server Bridge (npm):** [`@luaward/mcp`](https://www.npmjs.com/package/@luaward/mcp) (`npx -y @luaward/mcp`)
 - **Python SDK (PyPI):** [`luaward`](https://pypi.org/project/luaward/) (`pip install luaward`)
 
 ### Links
